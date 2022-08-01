@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrDotAstronaut
 - 👀 I’m interested in Automation Testing. 
-- 🌱 I’m currently learning Selenium WebDriver.
+- 🌱 I’m currently learning Selenium.
